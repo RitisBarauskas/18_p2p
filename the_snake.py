@@ -14,7 +14,7 @@ class Apple(Object):
 
 
 def main():
-  pass
+  """Основная функция."""
 
 
 if __name__ == '__main__':
